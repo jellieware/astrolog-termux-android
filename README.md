@@ -9,7 +9,7 @@ Astrolog for Android using Termux (v7.70)
 
 Compiled from source for android with termux!
 
-Requirements: aarch64 
+Requirements: aarch64, Termux
 
 Install with: dpkg -i Astrolog-7.70.deb
 
