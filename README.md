@@ -22,3 +22,6 @@ Use the following switch if it cant find "ephem" files:
 Ive included a basic shell script in the source section to preview some features of the program after installing the deb package.
 
 Thank you!
+
+![1000639724](https://github.com/user-attachments/assets/59e1f64c-b09d-4af6-9438-849a7bfaf72a)
+
